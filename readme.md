@@ -21,8 +21,8 @@ Here are some ideas to get you started:
     
 # 🖥️ Technical Skills: 
 <p align="left">
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+    <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
+    <img src="https://techicons.dev/icons/swift" alt="Swift" width="40" height="40"/>
   </a>
 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
