@@ -26,7 +26,9 @@ Here are some ideas to get you started:
     <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="40" height="40"/>
   </a>
-
+ <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="Apple" width="40" height="40"/>
+  </a>
 
   </a>
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
